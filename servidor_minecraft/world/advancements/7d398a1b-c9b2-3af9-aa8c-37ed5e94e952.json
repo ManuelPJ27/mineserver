@@ -1,0 +1,200 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-08-13 00:38:45 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-08-13 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "orchard": "2025-08-13 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-08-13 00:37:14 +0000",
+      "wild_strawberry": "2025-08-13 00:37:14 +0000",
+      "corn": "2025-08-13 00:37:14 +0000",
+      "onion": "2025-08-13 00:37:14 +0000",
+      "wild_corn": "2025-08-13 00:37:14 +0000",
+      "wild_ribwort": "2025-08-13 00:37:14 +0000",
+      "strawberry": "2025-08-13 00:37:14 +0000",
+      "wild_nettle": "2025-08-13 00:37:14 +0000",
+      "barley": "2025-08-13 00:37:14 +0000",
+      "tomato": "2025-08-13 00:37:14 +0000",
+      "lettuce": "2025-08-13 00:37:14 +0000",
+      "wild_lettuce": "2025-08-13 00:37:14 +0000",
+      "wild_tomatoes": "2025-08-13 00:37:14 +0000",
+      "oat_seeds": "2025-08-13 00:37:14 +0000",
+      "tomato_seeds": "2025-08-13 00:37:14 +0000",
+      "barley_seeds": "2025-08-13 00:37:14 +0000",
+      "strawberry_seeds": "2025-08-13 00:37:14 +0000",
+      "lettuce_seeds": "2025-08-13 00:37:14 +0000",
+      "kernels": "2025-08-13 00:37:14 +0000",
+      "wild_barley": "2025-08-13 00:37:14 +0000",
+      "wild_onion": "2025-08-13 00:37:14 +0000",
+      "wild_oat": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-08-13 00:41:06 +0000"
+    },
+    "done": true
+  },
+  "sleepy_hollows:main/root": {
+    "criteria": {
+      "example_criterion": "2025-08-13 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-08-13 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-13 00:41:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "sosorgans:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "flying_stuff:sky_lands": {
+    "criteria": {
+      "sky_lands_0": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2025-08-13 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-08-13 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "jacaranda_glade": "2025-08-13 00:38:06 +0000",
+      "old_growth_woodland": "2025-08-13 00:40:21 +0000",
+      "orchard": "2025-08-13 00:37:15 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-08-13 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-13 00:41:06 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:main/root": {
+    "criteria": {
+      "lilis_lucky_lures": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-13 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
