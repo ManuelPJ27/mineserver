@@ -9544,3 +9544,83 @@ com.google.gson.JsonSyntaxException: Missing result, expected to find a JsonObje
 [13Aug2025 19:32:03.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Aug2025 19:32:03.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Aug2025 19:32:56.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/94, l='ServerLevel[world]', x=44.24, y=63.00, z=51.35] died, message: 'Unemployed hit the ground too hard'
+[13Aug2025 19:36:03.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/85, l='ServerLevel[world]', x=-3.48, y=70.00, z=30.52] died, message: 'Fletcher hit the ground too hard'
+[13Aug2025 19:37:03.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 19:37:03.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 19:39:30.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Finders Keeper]
+[13Aug2025 19:39:39.986] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [220 absolute-100 below top]
+[13Aug2025 19:42:03.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 19:42:03.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 19:43:18.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{beachparty:beach_towel}[conditional=true,facing=south,occupied=false,part=head] but failed at location BlockPos{x=518, y=66, z=-325}
+[13Aug2025 19:43:18.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{beachparty:beach_towel}[conditional=true,facing=south,occupied=false,part=foot] but failed at location BlockPos{x=518, y=66, z=-326}
+[13Aug2025 19:43:41.833] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [200 absolute-200 below top]
+[13Aug2025 19:44:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Diamonds!]
+[13Aug2025 19:46:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [She Sells Seashells]
+[13Aug2025 19:47:03.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 19:47:03.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 19:48:22.526] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [220 absolute-150 below top]
+[13Aug2025 19:48:58.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 9.049393686794701,0.0,-5.125272579425882
+[13Aug2025 19:48:58.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 9.397447290132959,0.0,-5.322398447865339
+[13Aug2025 19:48:58.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 9.745500893471217,0.0,-5.519524316304796
+[13Aug2025 19:48:58.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 10.093554496809475,0.0,-5.716650184744253
+[13Aug2025 19:48:58.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 10.441608100147732,0.0,-5.91377605318371
+[13Aug2025 19:48:58.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 10.78966170348599,0.0,-6.110901921623167
+[13Aug2025 19:49:10.887] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [220 absolute-120 below top]
+[13Aug2025 19:50:02.077] [Worker-Main-56/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[13Aug2025 19:50:02.078] [Worker-Main-56/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[13Aug2025 19:51:22.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 8.074011933935708,0.0,-6.5480360869914875
+[13Aug2025 19:51:22.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 8.38302147203649,0.0,-6.801978370293682
+[13Aug2025 19:51:22.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 8.69198711465242,0.0,-7.055979146663049
+[13Aug2025 19:51:22.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 9.000913251333259,0.0,-7.310032566791733
+[13Aug2025 19:51:22.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 9.30980383267297,0.0,-7.564133366302258
+[13Aug2025 19:51:22.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 9.618662414206938,0.0,-7.818276807255415
+[13Aug2025 19:51:22.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 9.92749219591633,0.0,-8.072458625505988
+[13Aug2025 19:51:22.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 10.236293619581375,0.0,-8.326677943066443
+[13Aug2025 19:51:22.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 10.545069521007918,0.0,-8.58093101000486
+[13Aug2025 19:51:22.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 10.85382245241999,0.0,-8.835214451382626
+[13Aug2025 19:51:22.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 11.162554710819677,0.0,-9.089525229755054
+[13Aug2025 19:51:22.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 11.471268363508443,0.0,-9.343860611422087
+[13Aug2025 19:51:22.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 11.779965271058245,0.0,-9.598218136053674
+[13Aug2025 19:51:22.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 12.088647107982979,0.0,-9.852595589352859
+[13Aug2025 19:51:22.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 12.397315381345834,0.0,-10.106990978452359
+[13Aug2025 19:51:22.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 12.705971447503089,0.0,-10.361402509771551
+[13Aug2025 19:51:22.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 13.014616527175804,0.0,-10.615828569088308
+[13Aug2025 19:51:22.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 13.32325171901266,0.0,-10.870267703602394
+[13Aug2025 19:51:22.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 13.631878011797653,0.0,-11.124718605793987
+[13Aug2025 19:51:22.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 13.940493853508087,0.0,-11.379183056775219
+[13Aug2025 19:51:22.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 14.2491002892516,0.0,-11.633659701667057
+[13Aug2025 19:51:22.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 14.55769825962534,0.0,-11.888147321078122
+[13Aug2025 19:51:22.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 14.86628861116651,0.0,-12.142644817556175
+[13Aug2025 19:51:22.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 15.174872105758368,0.0,-12.397151203394287
+[13Aug2025 19:51:22.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 15.483449429096254,0.0,-12.651665589656204
+[13Aug2025 19:51:22.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 15.79202119830552,0.0,-12.906187176299454
+[13Aug2025 19:51:22.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 16.10058796879912,0.0,-13.160715243285722
+[13Aug2025 19:51:22.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 16.40915024044898,0.0,-13.415249142580478
+[13Aug2025 19:51:22.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 16.717708463139388,0.0,-13.669788290952738
+[13Aug2025 19:51:22.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 17.02626304176647,0.0,-13.924332163494682
+[13Aug2025 19:51:22.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 17.334814340736557,0.0,-14.17888028778907
+[13Aug2025 19:51:22.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 17.64336268801526,0.0,-14.433432238660771
+[13Aug2025 19:51:22.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 17.951908378771805,0.0,-14.68798763345194
+[13Aug2025 19:51:22.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 18.260451678658683,0.0,-14.942546127770356
+[13Aug2025 19:51:22.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 18.56899282676295,0.0,-15.19710741166341
+[13Aug2025 19:51:22.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 18.87753203826287,0.0,-15.451671206173387
+[13Aug2025 19:51:22.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 19.186069506818967,0.0,-15.706237260238822
+[13Aug2025 19:51:22.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 19.49460540672544,0.0,-15.960805347903943
+[13Aug2025 19:51:22.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 19.80313989484739,0.0,-16.21537526580869
+[13Aug2025 19:51:22.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 20.111673112363405,0.0,-16.469946830929075
+[13Aug2025 19:51:22.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 20.420205186333988,0.0,-16.72451987854356
+[13Aug2025 19:51:22.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 20.728736231114,0.0,-16.97909426040269
+[13Aug2025 19:51:22.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 21.037266349622314,0.0,-17.23366984308177
+[13Aug2025 19:51:22.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3366ms or 67 ticks behind
+[13Aug2025 19:51:22.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Palm Boat (vehicle of Cusuco) moved too quickly! 13.5808392981603,0.0,-11.194090997045123
+[13Aug2025 19:52:06.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 19:52:06.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 19:57:06.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 19:57:06.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 19:57:27.473] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/12350, l='ServerLevel[world]', x=2902.50, y=14.00, z=-1436.50]
+[13Aug2025 19:59:01.973] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [310 absolute-60 below top]
+[13Aug2025 19:59:02.177] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [320 absolute-60 below top]
+[13Aug2025 20:02:06.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 20:02:06.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 20:04:12.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{beachparty:beach_towel}[conditional=true,facing=south,occupied=false,part=head] but failed at location BlockPos{x=3942, y=66, z=-1285}
+[13Aug2025 20:04:12.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{beachparty:beach_towel}[conditional=true,facing=south,occupied=false,part=foot] but failed at location BlockPos{x=3942, y=66, z=-1286}
