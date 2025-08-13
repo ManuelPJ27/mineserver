@@ -1045,3 +1045,29 @@ com.google.gson.JsonSyntaxException: Missing result, expected to find a JsonObje
 [13Aug2025 19:59:02.177] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [320 absolute-60 below top]
 [13Aug2025 20:04:12.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{beachparty:beach_towel}[conditional=true,facing=south,occupied=false,part=head] but failed at location BlockPos{x=3942, y=66, z=-1285}
 [13Aug2025 20:04:12.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{beachparty:beach_towel}[conditional=true,facing=south,occupied=false,part=foot] but failed at location BlockPos{x=3942, y=66, z=-1286}
+[13Aug2025 20:16:43.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cusuco lost connection: Timed out
+[13Aug2025 20:16:43.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco left the game
+[13Aug2025 20:17:32.814] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75a4f5cb[id=<null>,name=Cusuco,properties={},legacy=false] (/100.103.82.15:50428) lost connection: Disconnected
+[13Aug2025 20:18:07.864] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e6137fd[id=<null>,name=Cusuco,properties={},legacy=false] (/100.103.82.15:50430) lost connection: Disconnected
+[13Aug2025 20:19:00.514] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fe22af4[id=<null>,name=Cusuco,properties={},legacy=false] (/100.103.82.15:50436) lost connection: Disconnected
+[13Aug2025 20:19:11.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Aug2025 20:19:11.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Aug2025 20:19:11.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Aug2025 20:19:11.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Aug2025 20:19:11.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Aug2025 20:19:11.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Aug2025 20:19:11.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/flying_stuff:under_ground
+[13Aug2025 20:19:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/flying_stuff:shrine
+[13Aug2025 20:19:11.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[13Aug2025 20:19:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Aug2025 20:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Aug2025 20:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Aug2025 20:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (under_ground): All chunks are saved
+[13Aug2025 20:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (shrine): All chunks are saved
+[13Aug2025 20:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[13Aug2025 20:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Aug2025 20:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Aug2025 20:19:11.969] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Aug2025 20:19:11.970] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Aug2025 20:19:11.975] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Aug2025 20:19:11.978] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
