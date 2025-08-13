@@ -1029,3 +1029,30 @@ com.google.gson.JsonSyntaxException: Missing result, expected to find a JsonObje
 [13Aug2025 05:55:11.883] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [138, -88], pos: BlockPos{x=2212, y=230, z=-1408}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / flying_stuff:fir_0]
 [13Aug2025 05:55:42.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Amateur Archaeologist]
 [13Aug2025 05:55:44.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Ice Bucket Challenge]
+[13Aug2025 05:57:04.207] [Worker-Main-13/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [165, -83], pos: BlockPos{x=2640, y=230, z=-1322}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / flying_stuff:fir_0]
+[13Aug2025 05:57:15.350] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[13Aug2025 05:57:33.460] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [175, -80], pos: BlockPos{x=2812, y=230, z=-1280}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / flying_stuff:fir_0]
+[13Aug2025 05:58:59.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco was slain by Drowned
+[13Aug2025 06:04:50.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cusuco lost connection: Disconnected
+[13Aug2025 06:04:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco left the game
+[13Aug2025 06:05:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Aug2025 06:05:14.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Aug2025 06:05:14.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Aug2025 06:05:14.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Aug2025 06:05:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Aug2025 06:05:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/flying_stuff:shrine
+[13Aug2025 06:05:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Aug2025 06:05:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Aug2025 06:05:15.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[13Aug2025 06:05:15.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/flying_stuff:under_ground
+[13Aug2025 06:05:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Aug2025 06:05:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (shrine): All chunks are saved
+[13Aug2025 06:05:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Aug2025 06:05:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Aug2025 06:05:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[13Aug2025 06:05:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (under_ground): All chunks are saved
+[13Aug2025 06:05:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Aug2025 06:05:15.637] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Aug2025 06:05:15.639] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Aug2025 06:05:15.643] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Aug2025 06:05:15.646] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
