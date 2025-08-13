@@ -9337,3 +9337,10 @@ com.google.gson.JsonSyntaxException: Missing result, expected to find a JsonObje
 [13Aug2025 05:23:04.896] [Worker-Main-11/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
 [13Aug2025 05:23:04.897] [Worker-Main-11/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
 [13Aug2025 05:24:59.419] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [220 absolute-120 below top]
+[13Aug2025 05:27:22.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 05:27:22.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 05:29:40.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14, l='ServerLevel[world]', x=-20.24, y=71.00, z=10.50] died, message: 'Farmer hit the ground too hard'
+[13Aug2025 05:30:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Hunt and Gather]
+[13Aug2025 05:31:22.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Sweet Dreams]
+[13Aug2025 05:32:22.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 05:32:22.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
