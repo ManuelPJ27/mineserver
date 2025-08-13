@@ -986,3 +986,8 @@ com.google.gson.JsonSyntaxException: Missing result, expected to find a JsonObje
 [13Aug2025 05:04:38.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38, l='ServerLevel[world]', x=16.63, y=75.00, z=2.15] died, message: 'Unemployed hit the ground too hard'
 [13Aug2025 05:04:45.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bladedarkinfini lost connection: Disconnected
 [13Aug2025 05:04:45.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bladedarkinfini left the game
+[13Aug2025 05:08:37.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco hit the ground too hard
+[13Aug2025 05:09:13.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Acquire Hardware]
+[13Aug2025 05:09:58.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Isn't It Iron Pick]
+[13Aug2025 05:11:04.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Suit Up]
+[13Aug2025 05:11:36.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco has made the advancement [Monster Hunter]
