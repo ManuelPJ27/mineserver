@@ -968,3 +968,12 @@ com.google.gson.JsonSyntaxException: Missing result, expected to find a JsonObje
 [13Aug2025 19:24:33.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco left the game
 [13Aug2025 19:24:33.274] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [13Aug2025 19:25:18.424] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62dea05a[id=<null>,name=Cusuco,properties={},legacy=false] (/100.103.82.15:50286) lost connection: Disconnected
+[13Aug2025 19:26:33.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cusuco[/100.103.82.15:50294] logged in with entity id 1400 at (256.30000001192093, 65.0, 3.237500011920929)
+[13Aug2025 19:26:33.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco joined the game
+[13Aug2025 19:26:33.289] [Server thread/INFO] [Jade/]: Syncing config to Cusuco (7d398a1b-c9b2-3af9-aa8c-37ed5e94e952)
+[13Aug2025 19:27:48.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cusuco lost connection: Timed out
+[13Aug2025 19:27:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco left the game
+[13Aug2025 19:29:08.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cusuco[/100.103.82.15:50304] logged in with entity id 1671 at (282.127716444431, 71.0, -4.226961405102035)
+[13Aug2025 19:29:08.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco joined the game
+[13Aug2025 19:29:08.567] [Server thread/INFO] [Jade/]: Syncing config to Cusuco (7d398a1b-c9b2-3af9-aa8c-37ed5e94e952)
+[13Aug2025 19:32:56.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/94, l='ServerLevel[world]', x=44.24, y=63.00, z=51.35] died, message: 'Unemployed hit the ground too hard'

@@ -148,6 +148,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-08-13 19:29:38 +0000",
       "scrubland": "2025-08-13 05:00:48 +0000",
       "jacaranda_glade": "2025-08-13 00:38:06 +0000",
       "old_growth_woodland": "2025-08-13 00:40:21 +0000",
@@ -587,6 +588,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-08-13 05:47:04 +0000",
+      "minecraft:beach": "2025-08-13 19:30:34 +0000",
       "minecraft:river": "2025-08-13 04:54:28 +0000",
       "minecraft:stony_shore": "2025-08-13 05:01:54 +0000",
       "minecraft:ocean": "2025-08-13 05:43:51 +0000"
@@ -3824,45 +3826,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-08-13 19:21:48 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_helmet_repairing": {
-    "criteria": {
-      "has_golden_helmet": "2025-08-13 19:21:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-08-13 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-08-13 19:21:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-08-13 19:21:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-08-13 19:18:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_boots_repairing": {
-    "criteria": {
-      "has_golden_boots": "2025-08-13 19:21:46 +0000"
     },
     "done": true
   },
@@ -3875,12 +3841,6 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-13 19:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-08-13 19:21:46 +0000"
     },
     "done": true
   },
@@ -3899,6 +3859,66 @@
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-08-13 19:18:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-13 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-13 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-13 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-08-13 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-13 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-08-13 19:21:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-08-13 19:21:48 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2025-08-13 19:30:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_planks": {
+    "criteria": {
+      "has_log": "2025-08-13 19:30:00 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_wood": {
+    "criteria": {
+      "has_log": "2025-08-13 19:30:00 +0000"
     },
     "done": true
   },
