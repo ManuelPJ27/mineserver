@@ -958,3 +958,27 @@ com.google.gson.JsonSyntaxException: Missing result, expected to find a JsonObje
 [15Aug2025 22:26:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco joined the game
 [15Aug2025 22:26:47.165] [Server thread/INFO] [Jade/]: Syncing config to Cusuco (7d398a1b-c9b2-3af9-aa8c-37ed5e94e952)
 [15Aug2025 22:26:50.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
+[15Aug2025 22:52:21.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/240, l='ServerLevel[world]', x=4042.84, y=126.00, z=-1150.80] died, message: 'Unemployed was slain by Zombie'
+[15Aug2025 22:52:46.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cusuco lost connection: Disconnected
+[15Aug2025 22:52:46.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cusuco left the game
+[15Aug2025 22:54:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Aug2025 22:54:12.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Aug2025 22:54:12.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Aug2025 22:54:12.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Aug2025 22:54:12.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Aug2025 22:54:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/flying_stuff:shrine
+[15Aug2025 22:54:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/flying_stuff:under_ground
+[15Aug2025 22:54:13.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Aug2025 22:54:13.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[15Aug2025 22:54:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Aug2025 22:54:13.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Aug2025 22:54:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (shrine): All chunks are saved
+[15Aug2025 22:54:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (under_ground): All chunks are saved
+[15Aug2025 22:54:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Aug2025 22:54:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[15Aug2025 22:54:13.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Aug2025 22:54:13.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Aug2025 22:54:13.440] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Aug2025 22:54:13.443] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[15Aug2025 22:54:13.447] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[15Aug2025 22:54:13.454] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
