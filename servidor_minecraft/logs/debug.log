@@ -9087,3 +9087,15 @@ com.google.gson.JsonSyntaxException: Missing result, expected to find a JsonObje
 [18Aug2025 01:05:57.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/327, l='ServerLevel[world]', x=4043.50, y=126.00, z=-1142.93] died, message: 'Unemployed was slain by Decaying Zombie'
 [18Aug2025 01:06:04.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/324, l='ServerLevel[world]', x=4044.66, y=126.00, z=-1142.93] died, message: 'Unemployed was slain by Decaying Zombie'
 [18Aug2025 01:06:24.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/338, l='ServerLevel[world]', x=3964.70, y=118.00, z=-1071.47] died, message: 'Mason was poked to death by a sweet berry bush'
+[18Aug2025 01:07:16.338] [Worker-Main-15/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Aug2025 01:07:17.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/199, l='ServerLevel[world]', x=3983.31, y=118.02, z=-1154.30] died, message: 'Unemployed was slain by Zombie'
+[18Aug2025 01:07:17.128] [Worker-Main-16/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 01:07:17.129] [Worker-Main-16/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 01:08:28.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:08:28.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:10:07.383] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Aug2025 01:12:11.242] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [220 absolute-100 below top]
+[18Aug2025 01:12:24.599] [Worker-Main-23/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Aug2025 01:13:28.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:13:28.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:14:53.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cusuco moved wrongly!
